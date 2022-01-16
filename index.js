@@ -59,7 +59,7 @@ client.on('message', async (message) => {
           .assign({ allID: id })
           .write();
         message.channel.send(
-          `Set the counter channel to #${n}, now updating counter.`
+          `done! set to > #${n} <.`
         );
         updateCounters(message);
       } else return message.reply('An error occurred cause Eliza is a dumbo.');
