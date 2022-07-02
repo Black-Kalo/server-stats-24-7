@@ -10,9 +10,6 @@ run = "node ."
 javascript
 # EN / ENGLISH
 Just fill in TOKEN in Settings.json!
-<br>
-Added 24/7! <br>
-Add <a href="https://uptimerobot.com/">uptimerobot</a> at the end!
 # how use?
 Invite bot > `.setchannel voice channel id` and that's it!
 # Run?
