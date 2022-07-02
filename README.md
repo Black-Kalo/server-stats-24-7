@@ -2,9 +2,6 @@
 
 # TW / CHINESE
 只要在Settings.json 填寫TOKEN就好!
-<br>
-添加了24/7 !  <br>
-最後再添加<a href="https://uptimerobot.com/">uptimerobot</a>就好了! <br>
 # 如何使用?
 邀請bot > `.setchannel 語音頻道id` 就好啦!
 # Run?
