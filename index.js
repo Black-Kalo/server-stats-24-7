@@ -1,4 +1,3 @@
-const keep_alive = require('./keep_alive.js')
 const Settings = require('./Settings.json');
 const Discord = require('discord.js');
 const low = require('lowdb');
